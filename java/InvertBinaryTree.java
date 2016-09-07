@@ -1,4 +1,5 @@
-package Leetcode;
+package LeetCodeSol.java;
+
 
 public class InvertBinaryTree {
 	  public TreeNode invertTree(TreeNode root) {

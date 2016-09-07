@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCodeSol.java;
 
 public class ExcelSheetColumnNumber {
     public int titleToNumber(String s) {

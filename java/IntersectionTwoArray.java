@@ -1,3 +1,5 @@
+package LeetCodeSol.java;
+
 import java.util.HashMap;
 /**
  * Given two arrays, write a function to compute their intersection.

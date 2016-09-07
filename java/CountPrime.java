@@ -1,3 +1,4 @@
+package LeetCodeSol.java;
 
 public class CountPrime {	
 	public int countPrimes(int n) {

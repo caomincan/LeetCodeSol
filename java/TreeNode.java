@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCodeSol.java;
 public class TreeNode {
 	     int val;
 	    TreeNode left;

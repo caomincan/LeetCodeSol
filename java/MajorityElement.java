@@ -1,3 +1,5 @@
+package LeetCodeSol.java;
+
 import java.util.HashMap;
 
 public class MajorityElement {

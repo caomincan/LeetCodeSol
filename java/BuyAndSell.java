@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCodeSol.java;
 
 public class BuyAndSell {
 	public int maxProfit(int[] prices) {

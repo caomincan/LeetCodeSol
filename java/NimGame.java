@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCodeSol.java;
 
 public class NimGame {
 	    public boolean canWinNim(int n) {

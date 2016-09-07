@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCodeSol.java;
 
 public class AddDigits {
     public int addDigits(int num) {

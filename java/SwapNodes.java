@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCodeSol.java;
 
 public class SwapNodes {
 	 public ListNode swapPairs(ListNode head) {

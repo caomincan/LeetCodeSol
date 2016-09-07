@@ -1,4 +1,5 @@
-package Leetcode;
+package LeetCodeSol.java;
+
 
 public class ListCycle {
 	  public boolean hasCycle(ListNode head) {

@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCodeSol.java;
 
 public class RemoveNfromEnd {
 	 public ListNode removeNthFromEnd(ListNode head, int n) {
